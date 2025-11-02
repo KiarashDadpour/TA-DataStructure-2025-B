@@ -1,4 +1,4 @@
-Algorithm Analysis Assignment
+# 🧩 Algorithm Analysis Assignment
 #### 1) Merge Sort Algorithm
  - Task: Implement the Merge Sort algorithm in Python.
  - Objective: Analyze the time and space complexity of the Merge Sort algorithm.
