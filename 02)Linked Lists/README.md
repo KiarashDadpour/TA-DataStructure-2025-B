@@ -9,3 +9,18 @@ Different types of linked lists exist, such as:
 - **Circular Linked List:** The last node points back to the first node, forming a closed loop.
 
 Linked lists are widely used in algorithm design, dynamic memory management, and when efficient insertions and deletions are required.
+
+
+## WEEK 2:
+
+Here is a summary of class:
+
+- Definition of Node
+- Definition of Linked List
+- Types of Linked Lists
+- Singly Linked List Class
+- Types of Insertions in Singly Linked List
+- Types of Deletions from Singly Linked List
+- Doubly Linked List Class
+- Types of Insertions in Doubly Linked List
+- Types of Deletions from Doubly Linked List
