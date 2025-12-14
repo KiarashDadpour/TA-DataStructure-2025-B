@@ -6,10 +6,7 @@ The class must include the following main methods:
 - `push`
 - `pop`
 - `is_empty`
-- `is_full`
 - `get_top`
 - `size`
 
-
-
-
+The stack should follow the LIFO principle and handle underflow conditions properly.
