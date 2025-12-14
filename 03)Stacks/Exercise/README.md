@@ -9,8 +9,10 @@ The class must include the following main methods:
 - `get_top`
 - `size`
 
-The stack should follow the LIFO principle and handle underflow conditions properly.
-Do not use built-in stack libraries.
+### Notes
+- The stack should follow the LIFO principle 
+- handle underflow conditions properly.
+- Do not use built-in stack libraries.
 
 ---
 Use your **LinkedListBasedStack** implementation to check whether parentheses in a given string are **balanced**.
